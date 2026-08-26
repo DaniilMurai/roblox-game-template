@@ -39,11 +39,72 @@
   },
   "passes": [],
   "products": [],
+  "zones": [],
   "world": {
-    "platform": { "size": [40, 1, 24], "color": [0.29, 0.29, 0.31], "material": "Concrete" },
-    "conveyor": { "size": [26, 0.6, 6], "color": [0.13, 0.14, 0.16], "material": "Metal" },
-    "dropper": { "size": [4, 6, 4], "color": [0.6, 0.6, 0.65], "material": "Metal" },
-    "collector": { "size": [6, 7, 8], "color": [0.3, 0.45, 0.7], "material": "Metal" },
-    "drop": { "size": [1.6, 1.6, 1.6], "color": [0.75, 0.75, 0.8], "material": "SmoothPlastic" }
+    "platform": {
+      "size": [
+        40,
+        1,
+        24
+      ],
+      "color": [
+        0.29,
+        0.29,
+        0.31
+      ],
+      "material": "Concrete"
+    },
+    "conveyor": {
+      "size": [
+        26,
+        0.6,
+        6
+      ],
+      "color": [
+        0.13,
+        0.14,
+        0.16
+      ],
+      "material": "Metal"
+    },
+    "dropper": {
+      "size": [
+        4,
+        6,
+        4
+      ],
+      "color": [
+        0.6,
+        0.6,
+        0.65
+      ],
+      "material": "Metal"
+    },
+    "collector": {
+      "size": [
+        6,
+        7,
+        8
+      ],
+      "color": [
+        0.3,
+        0.45,
+        0.7
+      ],
+      "material": "Metal"
+    },
+    "drop": {
+      "size": [
+        1.6,
+        1.6,
+        1.6
+      ],
+      "color": [
+        0.75,
+        0.75,
+        0.8
+      ],
+      "material": "SmoothPlastic"
+    }
   }
 }
